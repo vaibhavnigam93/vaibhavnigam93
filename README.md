@@ -1,3 +1,4 @@
+![logo](https://github.com/vaibhavnigam93/vaibhavnigam93/blob/main/data-analysis-colorful-modern-banner-vector-19132662.jpg)
 <h1 align="center">Hi 👋, I'm Vaibhav Nigam</h1>
 <h3 align="center">A data science aspirant</h3>
 
